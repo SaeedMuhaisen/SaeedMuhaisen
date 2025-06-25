@@ -1,1 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=SaeedMuhaisen&label=%C2%A0&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+### Hi there 👋
+[![Hits](https://u8views.com/api/v1/github/profiles/81348860/views/day-week-month-total-count.svg)](https://u8views.com/github/SaeedMuhaisen)
+
