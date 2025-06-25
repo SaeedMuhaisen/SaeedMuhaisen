@@ -3,7 +3,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/SaeedMuhaisen/SaeedMuhaisen/blob/main/header.jpg" alt="header"/>
+  <img src="https://github.com/SaeedMuhaisen/SaeedMuhaisen/blob/main/banner.jpg" alt="banner"/>
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
