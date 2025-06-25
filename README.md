@@ -1,11 +1,8 @@
 
 
-
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/SaeedMuhaisen/SaeedMuhaisen/blob/main/banner.jpg" alt="banner"/>
 </div>
-
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>A highly resourceful software engineer and well-rounded IT professional, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
