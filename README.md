@@ -2,10 +2,8 @@
 
 
 <h1 align="center"> 👋 </h1>
-<div style="text-align:center; font-family:monospace; background:#000; color:#00ffcc; padding:20px; font-size:24px; border-radius:10px;">
-  <p>Hi there 👋</p>
-  <p>I’m <strong>Saeed Muhaisen</strong></p>
-  <p>Java | Node | Python</p>
+<div align="center">
+  <img src="https://github.com/SaeedMuhaisen/SaeedMuhaisen/blob/main/header.jpg" alt="header"/>
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
